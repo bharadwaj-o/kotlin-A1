@@ -1,18 +1,1 @@
-        The Royal Oak 
-          Restobar
- Road No.45, Jubilee Hills, Hyderabad
-       Ph no.: 1202301
-   IG Handle : @theroyaloak
 
-31-10-2023 -- 09:44:46
-
-Item x Quantity = Amount
-Apollo Fish x 5 = Rs.2000
-Potato Fingers x 5 = Rs.700
-Gimlet x 5 = Rs.1000
-
-Grand Total = Rs.3700
-Amount Due (With Regular Member Discount of 10% applied) = Rs.3330
-
-Thank you for dining with us Nithin! 
-Please visit again.
